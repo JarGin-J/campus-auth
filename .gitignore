@@ -1,0 +1,7 @@
+*.log
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+.env
+config.local
